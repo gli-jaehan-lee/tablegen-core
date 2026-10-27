@@ -1,0 +1,8 @@
+This product includes software derived from Nori (Synthefy/synthefy-nori),
+Copyright 2026 Synthefy, licensed under the Apache License, Version 2.0.
+The affected files carry an "SPDX-License-Identifier: Apache-2.0" header and
+were modified by Gauss Labs Inc. (Torch vectorisation, multi-column output,
+numerical guards).
+
+This product includes software derived from TabICL,
+Copyright (c) 2025, Soda team @ Inria, licensed under the BSD 3-Clause License.

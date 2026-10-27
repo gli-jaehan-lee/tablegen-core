@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
+output/
+outputs/
+.env
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+.ssh/
+.git-credentials
+.DS_Store

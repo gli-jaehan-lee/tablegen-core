@@ -1,0 +1,1 @@
+{"mode":"dag","rows":64,"features":3,"targets":2,"seed":44,"priors":["default8"],"feature_categories":[0,3,0],"target_categories":[0,2],"graph_options":{"min_n_nodes":4,"max_n_nodes":4}}

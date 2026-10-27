@@ -1,0 +1,329 @@
+[
+  {
+    "source": "reference/api.py",
+    "destination": "api.py",
+    "source_sha256": "217a0212dbb7294435e485c6cd34a78f01e8c7b8f98c85e3f44be646f7cb8ab8",
+    "changes": [
+      "namespace rewrite",
+      "default prior lin",
+      "expand closed presets with original default order"
+    ],
+    "destination_sha256": "f0c490459227d7225caa3baa289d6c19dd84977ab2bf7a1b96249119c1c270b0"
+  },
+  {
+    "source": "reference/sampling.py",
+    "destination": "sampling.py",
+    "source_sha256": "a49bb22e5b30cfe09de39d5d0447261a5d64ddbd7ddf0b700c0fb5e15d38ffc8",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "a49bb22e5b30cfe09de39d5d0447261a5d64ddbd7ddf0b700c0fb5e15d38ffc8"
+  },
+  {
+    "source": "reference/__init__.py",
+    "destination": "__init__.py",
+    "source_sha256": "01554096259865d6249accd3938b0ddab29fc55d619652fd6004fd6838490b38",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "01554096259865d6249accd3938b0ddab29fc55d619652fd6004fd6838490b38"
+  },
+  {
+    "source": "reference/priors/_distinct_fill.py",
+    "destination": "priors/_distinct_fill.py",
+    "source_sha256": "c15baa38f9f90e4cf8d7d2c5f41e9a2bd3eefd9f49683ff02acab40a4c34ff50",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "295bc4453ed4d08e65f2c9ccc5d32d3ac3ab260abfd1722afc14c15999776399"
+  },
+  {
+    "source": "reference/core/_base.py",
+    "destination": "core/_base.py",
+    "source_sha256": "46ba0eca7f51bdd774ce96ec20d55224b9cc6fb7f38b7fb0611b6b395f18ebed",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "2fe375ecb82af1feb89b70abf47538acfea7b940a053a15dc6b932f4cadb396e"
+  },
+  {
+    "source": "reference/core/_converter.py",
+    "destination": "core/_converter.py",
+    "source_sha256": "f288c654b7ab987fc685cea15f9c6fe71e9a8d8560d52db9812b294c474a3032",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "95aa701e088b44d4d0752c6385cbb840e86b52c34fc5c27ecb42c9e5a3f1fb6c"
+  },
+  {
+    "source": "reference/core/_graph.py",
+    "destination": "core/_graph.py",
+    "source_sha256": "1bcf5cb3cf4f5297ac8f01f1d34260e51d2080b0973035b7630606e85a66ecd9",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "04ddb5e9dc3edea7b1a535030e8c58275335d2a7f929e8ed5e0f368fcb901a17"
+  },
+  {
+    "source": "reference/core/_graph_function.py",
+    "destination": "core/_graph_function.py",
+    "source_sha256": "b127e3ee3ff09bab028a6f5659a68d165e10222815b66c51287602e37db65734",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "1b6a04263f49aaed51b36e69525ffa5be6987764efb62a76e7388789aa1fbbc3"
+  },
+  {
+    "source": "reference/core/_properties.py",
+    "destination": "core/_properties.py",
+    "source_sha256": "e2062c8c085306caa6145e25a784472b35411cc6030fdbdb2ddaaddc0fb2233f",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "cf45db04f9c57e9e5774224eeca637ef19cfb0d89695de3cb70e7bcb40430de1"
+  },
+  {
+    "source": "reference/core/__init__.py",
+    "destination": "core/__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "source": "reference/core/_multi_function.py",
+    "destination": "core/_multi_function.py",
+    "source_sha256": "39cbae09c3a68029752f433437205b4dff6f96217c47cafd40d8cb65f97d8ab7",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "6e19829dbfecaafdb362f0f213e03c1e4fc4bf91b2ae36f21637d94d87589b05"
+  },
+  {
+    "source": "reference/core/_dataset.py",
+    "destination": "core/_dataset.py",
+    "source_sha256": "d1391a48f47d8b0fa2f1e8a47537f7e4c1f172d71426832958b20efcb51ad954",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "d120354f103f2d02e6c87f3d663c69e54687898f42e4df90a733004b43253f1e"
+  },
+  {
+    "source": "reference/core/_node_function.py",
+    "destination": "core/_node_function.py",
+    "source_sha256": "710c19ead1772852bb065e79f63d7aceb3000d779f564632969abe51516aa5ad",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "87964d6070081e2ec9490085f72f108905b890ac6241b0b754fb024699f08099"
+  },
+  {
+    "source": "reference/core/_function.py",
+    "destination": "core/_function.py",
+    "source_sha256": "c3d99ce19a03d3af7c4def4f0ab61a8676531cedbdd38608c54de0b55d3e6fa7",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "64401ca9c71ff44193fd536fd62f730b173db860345619502ad22dd00f5df08b"
+  },
+  {
+    "source": "reference/core/_weights.py",
+    "destination": "core/_weights.py",
+    "source_sha256": "bf22b071328932dc07eba85fd281ba5e277a58e8a7457eac313e80845b743c3f",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "0347f446fcb0151e6b2168502e41896f9015fb32b4692e06085bca5d8fc26213"
+  },
+  {
+    "source": "reference/core/_config.py",
+    "destination": "core/_config.py",
+    "source_sha256": "789f5af746f7a96e3efd2433652c9a2fcdc2bbfe62988b391d3b8572be9baf01",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "789f5af746f7a96e3efd2433652c9a2fcdc2bbfe62988b391d3b8572be9baf01"
+  },
+  {
+    "source": "reference/core/_points.py",
+    "destination": "core/_points.py",
+    "source_sha256": "135cc900d281ac498a7f9022c367c5889187042be4bdf8c513ec82bf2d35eed8",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "ec74b8b738580471d5417af75532a6858eccd6b8682f518dcaf2beeca8104ca7"
+  },
+  {
+    "source": "reference/core/_matrix.py",
+    "destination": "core/_matrix.py",
+    "source_sha256": "3e1d5131dea02c6daa89cdf41fc7f00174cb72415c0550358a3ee60049758621",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "3f55403c365b189ebe9339eaf98bcb9feaf39884f9f6fe0a48dafd5a6d9acd87"
+  },
+  {
+    "source": "reference/core/_activation.py",
+    "destination": "core/_activation.py",
+    "source_sha256": "3071f730ae8aade8bae65528edf14fe333dda40841505ea3ecb48d78dc5f8f15",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "93d94d2dd4a53eec444a2b769db562af2bb5d504b8a317f1811aa4003e9bcc04"
+  },
+  {
+    "source": "reference/priors/nodes/piecewise_route_engine.py",
+    "destination": "priors/nodes/piecewise_route_engine.py",
+    "source_sha256": "9dad1088e530082bc633829960d993b070022f2b71ebb367f13b781d9108ceec",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "c7c3d42af32beac88dccb3da98ec00ba785e139f881305e4d1db50cceac8976b"
+  },
+  {
+    "source": "reference/priors/nodes/nori_anchor_rho_copy.py",
+    "destination": "priors/nodes/nori_anchor_rho_copy.py",
+    "source_sha256": "67917b0eeac24972863799a72eb83c13e131413394f4bd932a0778993393b0ee",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "13c445c8f26d2831c9866a4f4029b79ffcd502305e1acbb798789d86b67ec63a"
+  },
+  {
+    "source": "reference/priors/nodes/gev_tail_warp.py",
+    "destination": "priors/nodes/gev_tail_warp.py",
+    "source_sha256": "ad3aa06ca404c738dfcc655cf6ca7af46ecda16cd0260d5d17c1afe75bf4815e",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "56b3fca26f4aa29e7a4481aadc4f65899a43f52fb6b72452a375d6d8476de196"
+  },
+  {
+    "source": "reference/priors/nodes/ewens_sampling_formula.py",
+    "destination": "priors/nodes/ewens_sampling_formula.py",
+    "source_sha256": "95a8a5e42312805c441af42ff63c558c6c82f9efb81318928bea591988483da1",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "9b7c1ed59b0546507a524b5790e0f28b20a1d3355096742e9a45361c35a2d198"
+  },
+  {
+    "source": "reference/priors/nodes/markov_state_error_emission.py",
+    "destination": "priors/nodes/markov_state_error_emission.py",
+    "source_sha256": "4229fada3db550b79eed727ed9215b240056c89ecda7f07815f7b058ff858d88",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "9cbe051dbf910c50c2e913b23e2de52b65bb0628959eaa04ad9871a644e51c8f"
+  },
+  {
+    "source": "reference/priors/nodes/informative_censoring_hazard.py",
+    "destination": "priors/nodes/informative_censoring_hazard.py",
+    "source_sha256": "0132f6e27cbf7764eb960605fcec1bde7dda7bd2e8c3b23904b5cc25dba54af7",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "fdc71f54a5c245bd116c3b2e438ea7f57e7f774d3d9eec18080f7cdaed53d050"
+  },
+  {
+    "source": "reference/priors/nodes/eos_excess_mixing_enthalpy.py",
+    "destination": "priors/nodes/eos_excess_mixing_enthalpy.py",
+    "source_sha256": "d47cd6dcad5514a9d5b8ff06a00fa55a5839ece4d044f9c3ea1d27c11d125d59",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "511254d793ebfd52c23380d1620fb29db0ea874b9074c093ac6fdc7da4dee5d1"
+  },
+  {
+    "source": "reference/priors/nodes/modulated_satellite_structure_factor.py",
+    "destination": "priors/nodes/modulated_satellite_structure_factor.py",
+    "source_sha256": "b470d5290cbef13c98d49c7612d77a8ec9b7aba05fb2d0e186fef420ed110a68",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "70a1811b29324234e86951cc223723ddc6717cce45b78ef26235b82cf9ea9ef0"
+  },
+  {
+    "source": "reference/priors/nodes/paws_timestamp_drop.py",
+    "destination": "priors/nodes/paws_timestamp_drop.py",
+    "source_sha256": "d3fcb3bcf29b0cefbcd5a27b9d98a2406986d6587b08412b97e23a6611dca938",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "4bc2471cf99fe453807a3abd840256d94e3e133adf1dca2045bda4e1a2018c54"
+  },
+  {
+    "source": "reference/priors/nodes/niche_model_food_web.py",
+    "destination": "priors/nodes/niche_model_food_web.py",
+    "source_sha256": "71ab35f26faa4d345895b67956c07af9ed06b5e59f117b25bb5fbaea5d303721",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "14204d261e80db358cf72ebb04ede8fab0a77405c45e6c579fcdf7c0cc2be9c9"
+  },
+  {
+    "source": "reference/priors/nodes/island_biogeography_equilibrium.py",
+    "destination": "priors/nodes/island_biogeography_equilibrium.py",
+    "source_sha256": "7511fc73a6d4f900669b4440a6acfafd2e35a9566ddb1ac6d588acab61cf1e57",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "eb5453f8359c9760f94fe9093bf8fa1365eba1bc6b53618d0585ab48f49aff33"
+  },
+  {
+    "source": "reference/priors/nodes/bourgouin_precipitation_type.py",
+    "destination": "priors/nodes/bourgouin_precipitation_type.py",
+    "source_sha256": "24dd9d0b29c67e5782be58f46c2fba47c75c2bbfa5eacb1ffcef140b05074b70",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "12f64d2a55fc12ff3f4d68b8c67a758d94cba6c307b7786bbef57d7f34807368"
+  },
+  {
+    "source": "reference/priors/nodes/temperature_dependent_instar_transition.py",
+    "destination": "priors/nodes/temperature_dependent_instar_transition.py",
+    "source_sha256": "88c174ece4199ae7cf20ef9628358dd27792fecbd60aedc614b5c8950548f448",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "bebcfa00c643b4ba5ec7f6585bec2a2fb3369300d7bcd2b5d8ffe1b9fb6e58e7"
+  },
+  {
+    "source": "reference/priors/nodes/tetragonal_interplanar_spacing.py",
+    "destination": "priors/nodes/tetragonal_interplanar_spacing.py",
+    "source_sha256": "0d29952462a7dd5b6a6008d5bbe1ca7a79333d557e2092b4227e6a519a72b1b9",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "3c37d03e2d30ea7cc7650a8a724fd594ae0c5ca7308e993ed1d0559a120b4695"
+  },
+  {
+    "source": "reference/priors/nodes/bch_error_locator.py",
+    "destination": "priors/nodes/bch_error_locator.py",
+    "source_sha256": "30282e7ac3381b726ba63ce47c1f1db34f86efe8c299db68613fe88dfc951d2c",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "b2e1edc419a664b5e53106a258fd4c66a66030affcb0bc9c5ec6a77ae82ecf3f"
+  },
+  {
+    "source": "reference/priors/nodes/moe_linear_experts.py",
+    "destination": "priors/nodes/moe_linear_experts.py",
+    "source_sha256": "42cd41051b5ca9862abde7048d0480cd07368681a498076c22bce32e482b28c6",
+    "changes": [
+      "namespace rewrite"
+    ],
+    "destination_sha256": "edcd06dfbed240f2b02ad035659e61c70a980ce9534d9b618ad8e5c0a20bc934"
+  },
+  {
+    "source": "reference/priors/tools/distinct_col_check.py",
+    "destination": "priors/tools/distinct_col_check.py",
+    "source_sha256": "6e4697e20d905a887f62d525d7dc3e0098ab26e8520b186cd1bd849b789f48ad",
+    "changes": [
+      "namespace rewrite",
+      "retain numerical representative-check helpers; omit probe tooling"
+    ],
+    "destination_sha256": "2f5b61a82918677f2a489e5f2f1faa18a546e2da4e2e3a7f0b3f14684813b5ed"
+  }
+]

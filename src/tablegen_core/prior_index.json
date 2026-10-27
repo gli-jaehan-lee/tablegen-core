@@ -1,0 +1,50 @@
+{
+  "n_legacy": 8,
+  "n_selected": 16,
+  "legacy": [
+    "disc",
+    "em",
+    "gp",
+    "lin",
+    "mlp",
+    "prod",
+    "quad",
+    "tree"
+  ],
+  "by_name": {
+    "piecewise_route_engine": 84,
+    "nori_anchor_rho_copy": 755,
+    "gev_tail_warp": 15,
+    "ewens_sampling_formula": 521,
+    "markov_state_error_emission": 806,
+    "informative_censoring_hazard": 63,
+    "eos_excess_mixing_enthalpy": 1001,
+    "modulated_satellite_structure_factor": 611,
+    "paws_timestamp_drop": 920,
+    "niche_model_food_web": 416,
+    "island_biogeography_equilibrium": 488,
+    "bourgouin_precipitation_type": 239,
+    "temperature_dependent_instar_transition": 395,
+    "tetragonal_interplanar_spacing": 572,
+    "bch_error_locator": 818,
+    "moe_linear_experts": 30
+  },
+  "by_code": {
+    "84": "piecewise_route_engine",
+    "755": "nori_anchor_rho_copy",
+    "15": "gev_tail_warp",
+    "521": "ewens_sampling_formula",
+    "806": "markov_state_error_emission",
+    "63": "informative_censoring_hazard",
+    "1001": "eos_excess_mixing_enthalpy",
+    "611": "modulated_satellite_structure_factor",
+    "920": "paws_timestamp_drop",
+    "416": "niche_model_food_web",
+    "488": "island_biogeography_equilibrium",
+    "239": "bourgouin_precipitation_type",
+    "395": "temperature_dependent_instar_transition",
+    "572": "tetragonal_interplanar_spacing",
+    "818": "bch_error_locator",
+    "30": "moe_linear_experts"
+  }
+}
